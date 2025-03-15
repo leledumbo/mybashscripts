@@ -135,3 +135,10 @@ Behave like a mini top, useful as a desktop widget where you don't want too many
 
 * procps-ng
 
+## tidy-up.sh
+
+Categorize (read: put into folders) files in the current folder based on creation (or is it last modified? I'm not sure) year and month
+
+### Dependencies
+
+* grep
