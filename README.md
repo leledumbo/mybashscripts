@@ -137,8 +137,18 @@ Behave like a mini top, useful as a desktop widget where you don't want too many
 
 ## tidy-up.sh
 
-Categorize (read: put into folders) files in the current folder based on creation (or is it last modified? I'm not sure) year and month
+Categorize (read: put into folders) files in the current folder based on creation (or is it last modified? I'm not sure) year and month.
 
 ### Dependencies
 
 * grep
+
+## remove-vocals.sh
+
+Remove vocals from audio files to make a minus one audio.
+
+### Dependencies
+
+* demucs
+* sox
+* ffmpeg
